@@ -1,4 +1,6 @@
 # Radar System Design: The Role of Waveguides and S-Parameters in High-Frequency Communication Systems
+## Ganapathy Shriram V B
+## 212223060064
 
 
 ## 1. Introduction
@@ -43,6 +45,7 @@ This simple model helps in understanding basic wave behavior:
 * Wave propagation depends on the dimension between plates and the frequency of the wave.
 
 ### 3.3 Rectangular Waveguides
+![image](https://github.com/user-attachments/assets/2bb0aacf-0d7e-437d-a973-212174bf85d9)
 
 Rectangular waveguides are widely used due to ease of fabrication and well-understood mode structures.
 
@@ -68,7 +71,8 @@ Circular waveguides support modes like TE11 and TM01.
 
 * Require Bessel functions to solve the field equations due to cylindrical symmetry.
 * Cutoff frequencies determined using roots of Bessel functions.
-![image](https://github.com/user-attachments/assets/074b7eee-630b-4453-96dc-322adf06bc10)
+![image](https://github.com/user-attachments/assets/b1fc49af-efeb-4d17-980e-f44997b91efe)
+
 
 Applications:
 
@@ -82,11 +86,14 @@ These are closed waveguides used to store energy at specific resonant frequencie
 * Used in oscillators (e.g., magnetrons in radar)
 * TE and TM modes defined by cavity dimensions
 * Rectangular and circular shapes common
-![image](https://github.com/user-attachments/assets/6a0bebf8-09b7-43a4-9a18-286539f7b639)
+![image](https://github.com/user-attachments/assets/93c7c5a6-5392-412b-882d-6c6e230796b4)
+
 
 ---
 
 ## 4. Two-Port Network Theory in Radar Systems
+![image](https://github.com/user-attachments/assets/62ca5340-6444-4943-9ea1-def901487f0f)
+
 
 ### 4.1 Review of Low-Frequency Parameters
 
