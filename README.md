@@ -1,4 +1,4 @@
-# Radar System Design: The Role of Waveguides and S-Parameters in High-Frequency Communication Systems
+![image](https://github.com/user-attachments/assets/ef0d5b56-8cb5-4727-8044-ecfc48137829)# Radar System Design: The Role of Waveguides and S-Parameters in High-Frequency Communication Systems
 ## Ganapathy Shriram V B
 ## 212223060064
 
@@ -155,6 +155,8 @@ These effects must be considered in radar front-end design.
 
 * Frequency Range: 8–12 GHz
 * Applications: Weather radar, air traffic control, military surveillance
+* ![image](https://github.com/user-attachments/assets/bac2c11f-5cab-4946-9cb6-a86c7c3bf0da)
+
 
 ### 5.2 Use of Rectangular Waveguides
 
@@ -171,12 +173,16 @@ These effects must be considered in radar front-end design.
 
 * Matching circuits designed using S11
 * Filters designed using S21 measurements
+ ![image](https://github.com/user-attachments/assets/b6fc2139-0672-48e5-80a9-33bdb0933d1d)
+
 * Ensures efficient power transfer and minimal reflection
 
 ### 5.5 Network Analysis
 
 * Smith Chart used for impedance matching
 * Cascaded S-parameters used for total system response
+![image](https://github.com/user-attachments/assets/07e31cb3-d105-4840-ae76-c4a348679920)
+
 
 ---
 
@@ -199,6 +205,7 @@ These effects must be considered in radar front-end design.
 Radar systems are an excellent example of how electromagnetic theory and network analysis converge in high-frequency design. Waveguides ensure low-loss transmission of signals, while S-parameters provide a framework to design and analyze these systems efficiently. By understanding the modes in waveguides and the scattering behavior of microwave components, engineers can build radar systems with high reliability and precision.
 
 This report demonstrated the intertwined roles of topics from Chapter 4 (Waveguides and Cavity Resonators) and Chapter 5 (Two-Port Network Theory), showing how theoretical foundations are applied in cutting-edge technology.
+![image](https://github.com/user-attachments/assets/76391811-015a-4ccd-80fa-0fc1fca6ad84)
 
 ---
 
