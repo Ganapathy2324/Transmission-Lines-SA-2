@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef0d5b56-8cb5-4727-8044-ecfc48137829)# Radar System Design: The Role of Waveguides and S-Parameters in High-Frequency Communication Systems
+# Radar System Design: The Role of Waveguides and S-Parameters in High-Frequency Communication Systems
 ## Ganapathy Shriram V B
 ## 212223060064
 
